@@ -1,2 +1,4 @@
-# SoftUni-CSharp-OOP-Basics
-SoftUni C# OOP Basics Course
+# SoftUni C# OOP Basics Course
+- Defining Classes
+- Encapsulation
+- Inheritance
