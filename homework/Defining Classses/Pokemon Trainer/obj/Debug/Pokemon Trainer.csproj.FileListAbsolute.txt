@@ -1,0 +1,1 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Pokemon Trainer\bin\Debug\Pokemon Trainer.exe.config

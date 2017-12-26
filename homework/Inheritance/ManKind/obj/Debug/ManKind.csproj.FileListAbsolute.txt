@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Basics\homework\Inheritance\ManKind\bin\Debug\ManKind.exe.config
+C:\softuni\C# OOP Basics\homework\Inheritance\ManKind\bin\Debug\ManKind.exe
+C:\softuni\C# OOP Basics\homework\Inheritance\ManKind\bin\Debug\ManKind.pdb
+C:\softuni\C# OOP Basics\homework\Inheritance\ManKind\obj\Debug\ManKind.exe
+C:\softuni\C# OOP Basics\homework\Inheritance\ManKind\obj\Debug\ManKind.pdb

@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Drawing Tool\bin\Debug\Drawing Tool.exe.config
+C:\softuni\C# OOP Basics\homework\Defining Classses\Drawing Tool\bin\Debug\Drawing Tool.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Drawing Tool\bin\Debug\Drawing Tool.pdb
+C:\softuni\C# OOP Basics\homework\Defining Classses\Drawing Tool\obj\Debug\Drawing Tool.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Defining Classses\Drawing Tool\obj\Debug\Drawing Tool.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Drawing Tool\obj\Debug\Drawing Tool.pdb

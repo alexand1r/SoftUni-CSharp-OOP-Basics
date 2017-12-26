@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Encapsulation\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.exe.config
+C:\softuni\C# OOP Basics\homework\Encapsulation\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.exe
+C:\softuni\C# OOP Basics\homework\Encapsulation\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.pdb
+C:\softuni\C# OOP Basics\homework\Encapsulation\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Encapsulation\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.exe
+C:\softuni\C# OOP Basics\homework\Encapsulation\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.pdb

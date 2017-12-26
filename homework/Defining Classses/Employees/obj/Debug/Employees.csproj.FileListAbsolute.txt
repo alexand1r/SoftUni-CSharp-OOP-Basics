@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Employees\bin\Debug\Employees.exe.config
+C:\softuni\C# OOP Basics\homework\Defining Classses\Employees\bin\Debug\Employees.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Employees\bin\Debug\Employees.pdb
+C:\softuni\C# OOP Basics\homework\Defining Classses\Employees\obj\Debug\Employees.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Employees\obj\Debug\Employees.pdb

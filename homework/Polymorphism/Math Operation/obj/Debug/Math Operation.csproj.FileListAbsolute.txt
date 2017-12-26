@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Polymorphism\Math Operation\bin\Debug\Math Operation.exe.config
+C:\softuni\C# OOP Basics\homework\Polymorphism\Math Operation\bin\Debug\Math Operation.exe
+C:\softuni\C# OOP Basics\homework\Polymorphism\Math Operation\bin\Debug\Math Operation.pdb
+C:\softuni\C# OOP Basics\homework\Polymorphism\Math Operation\obj\Debug\Math Operation.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Polymorphism\Math Operation\obj\Debug\Math Operation.exe
+C:\softuni\C# OOP Basics\homework\Polymorphism\Math Operation\obj\Debug\Math Operation.pdb

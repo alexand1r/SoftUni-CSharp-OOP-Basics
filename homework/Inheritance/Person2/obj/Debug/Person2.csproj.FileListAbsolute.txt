@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Basics\homework\Inheritance\Person2\bin\Debug\Person2.exe.config
+C:\softuni\C# OOP Basics\homework\Inheritance\Person2\bin\Debug\Person2.exe
+C:\softuni\C# OOP Basics\homework\Inheritance\Person2\bin\Debug\Person2.pdb
+C:\softuni\C# OOP Basics\homework\Inheritance\Person2\obj\Debug\Person2.exe
+C:\softuni\C# OOP Basics\homework\Inheritance\Person2\obj\Debug\Person2.pdb

@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Person\bin\Debug\Person.exe.config
+C:\softuni\C# OOP Basics\homework\Defining Classses\Person\bin\Debug\Person.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Person\bin\Debug\Person.pdb
+C:\softuni\C# OOP Basics\homework\Defining Classses\Person\obj\Debug\Person.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Person\obj\Debug\Person.pdb
+C:\softuni\C# OOP Basics\homework\Defining Classses\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Polymorphism\Wild Farm\bin\Debug\Wild Farm.exe.config
+C:\softuni\C# OOP Basics\homework\Polymorphism\Wild Farm\bin\Debug\Wild Farm.exe
+C:\softuni\C# OOP Basics\homework\Polymorphism\Wild Farm\bin\Debug\Wild Farm.pdb
+C:\softuni\C# OOP Basics\homework\Polymorphism\Wild Farm\obj\Debug\Wild Farm.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Polymorphism\Wild Farm\obj\Debug\Wild Farm.exe
+C:\softuni\C# OOP Basics\homework\Polymorphism\Wild Farm\obj\Debug\Wild Farm.pdb

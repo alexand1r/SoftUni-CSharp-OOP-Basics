@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\exams\Exams\System Split\obj\Debug\System Split.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\exams\Exams\System Split\bin\Debug\System Split.exe.config
+C:\softuni\C# OOP Basics\exams\Exams\System Split\bin\Debug\System Split.exe
+C:\softuni\C# OOP Basics\exams\Exams\System Split\bin\Debug\System Split.pdb
+C:\softuni\C# OOP Basics\exams\Exams\System Split\obj\Debug\System Split.exe
+C:\softuni\C# OOP Basics\exams\Exams\System Split\obj\Debug\System Split.pdb

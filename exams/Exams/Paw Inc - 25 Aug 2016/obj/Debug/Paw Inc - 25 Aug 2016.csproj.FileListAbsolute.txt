@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\exams\Exams\Paw Inc - 25 Aug 2016\bin\Debug\Paw Inc - 25 Aug 2016.exe.config
+C:\softuni\C# OOP Basics\exams\Exams\Paw Inc - 25 Aug 2016\bin\Debug\Paw Inc - 25 Aug 2016.exe
+C:\softuni\C# OOP Basics\exams\Exams\Paw Inc - 25 Aug 2016\bin\Debug\Paw Inc - 25 Aug 2016.pdb
+C:\softuni\C# OOP Basics\exams\Exams\Paw Inc - 25 Aug 2016\obj\Debug\Paw Inc - 25 Aug 2016.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\exams\Exams\Paw Inc - 25 Aug 2016\obj\Debug\Paw Inc - 25 Aug 2016.exe
+C:\softuni\C# OOP Basics\exams\Exams\Paw Inc - 25 Aug 2016\obj\Debug\Paw Inc - 25 Aug 2016.pdb

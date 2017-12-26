@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Dates\bin\Debug\Dates.exe.config
+C:\softuni\C# OOP Basics\homework\Defining Classses\Dates\bin\Debug\Dates.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Dates\bin\Debug\Dates.pdb
+C:\softuni\C# OOP Basics\homework\Defining Classses\Dates\obj\Debug\Dates.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Defining Classses\Dates\obj\Debug\Dates.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Dates\obj\Debug\Dates.pdb

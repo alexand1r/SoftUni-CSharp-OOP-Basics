@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\softuni\C# OOP Basics\homework\Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\softuni\C# OOP Basics\homework\Encapsulation\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\softuni\C# OOP Basics\homework\Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\softuni\C# OOP Basics\homework\Encapsulation\AnimalFarm\obj\Debug\AnimalFarm.pdb

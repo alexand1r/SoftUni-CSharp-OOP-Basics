@@ -1,0 +1,1 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Google\bin\Debug\Google.exe.config

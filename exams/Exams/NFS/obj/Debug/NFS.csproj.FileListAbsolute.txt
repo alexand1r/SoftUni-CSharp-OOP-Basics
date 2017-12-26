@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\exams\Exams\NFS\bin\Debug\NFS.exe.config
+C:\softuni\C# OOP Basics\exams\Exams\NFS\bin\Debug\NFS.exe
+C:\softuni\C# OOP Basics\exams\Exams\NFS\bin\Debug\NFS.pdb
+C:\softuni\C# OOP Basics\exams\Exams\NFS\obj\Debug\NFS.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\exams\Exams\NFS\obj\Debug\NFS.exe
+C:\softuni\C# OOP Basics\exams\Exams\NFS\obj\Debug\NFS.pdb

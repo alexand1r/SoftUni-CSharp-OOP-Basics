@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Lab\bin\Debug\Lab.exe.config
+C:\softuni\C# OOP Basics\homework\Defining Classses\Lab\bin\Debug\Lab.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Lab\bin\Debug\Lab.pdb
+C:\softuni\C# OOP Basics\homework\Defining Classses\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Defining Classses\Lab\obj\Debug\Lab.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Lab\obj\Debug\Lab.pdb

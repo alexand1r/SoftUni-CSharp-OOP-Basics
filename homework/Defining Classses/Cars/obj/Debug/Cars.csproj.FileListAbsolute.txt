@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Cars\bin\Debug\Cars.exe.config
+C:\softuni\C# OOP Basics\homework\Defining Classses\Cars\bin\Debug\Cars.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Cars\bin\Debug\Cars.pdb
+C:\softuni\C# OOP Basics\homework\Defining Classses\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Defining Classses\Cars\obj\Debug\Cars.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Cars\obj\Debug\Cars.pdb

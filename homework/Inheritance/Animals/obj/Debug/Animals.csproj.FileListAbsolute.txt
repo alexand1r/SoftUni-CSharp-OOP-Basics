@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Inheritance\Animals\bin\Debug\Animals.exe.config
+C:\softuni\C# OOP Basics\homework\Inheritance\Animals\bin\Debug\Animals.exe
+C:\softuni\C# OOP Basics\homework\Inheritance\Animals\bin\Debug\Animals.pdb
+C:\softuni\C# OOP Basics\homework\Inheritance\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Inheritance\Animals\obj\Debug\Animals.exe
+C:\softuni\C# OOP Basics\homework\Inheritance\Animals\obj\Debug\Animals.pdb

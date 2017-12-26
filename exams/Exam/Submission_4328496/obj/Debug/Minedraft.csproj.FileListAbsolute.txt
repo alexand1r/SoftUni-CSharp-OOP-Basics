@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\exams\Exam\Submission_4328496\bin\Debug\Minedraft.exe.config
+C:\softuni\C# OOP Basics\exams\Exam\Submission_4328496\bin\Debug\Minedraft.exe
+C:\softuni\C# OOP Basics\exams\Exam\Submission_4328496\bin\Debug\Minedraft.pdb
+C:\softuni\C# OOP Basics\exams\Exam\Submission_4328496\obj\Debug\Minedraft.exe
+C:\softuni\C# OOP Basics\exams\Exam\Submission_4328496\obj\Debug\Minedraft.pdb
+C:\softuni\C# OOP Basics\exams\Exam\Submission_4328496\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Encapsulation\PizzaCalories\bin\Debug\PizzaCalories.exe.config
+C:\softuni\C# OOP Basics\homework\Encapsulation\PizzaCalories\bin\Debug\PizzaCalories.exe
+C:\softuni\C# OOP Basics\homework\Encapsulation\PizzaCalories\bin\Debug\PizzaCalories.pdb
+C:\softuni\C# OOP Basics\homework\Encapsulation\PizzaCalories\obj\Debug\PizzaCalories.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Encapsulation\PizzaCalories\obj\Debug\PizzaCalories.exe
+C:\softuni\C# OOP Basics\homework\Encapsulation\PizzaCalories\obj\Debug\PizzaCalories.pdb

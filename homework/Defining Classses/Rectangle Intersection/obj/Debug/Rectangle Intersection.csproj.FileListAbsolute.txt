@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Rectangle Intersection\bin\Debug\Rectangle Intersection.exe.config
+C:\softuni\C# OOP Basics\homework\Defining Classses\Rectangle Intersection\bin\Debug\Rectangle Intersection.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Rectangle Intersection\bin\Debug\Rectangle Intersection.pdb
+C:\softuni\C# OOP Basics\homework\Defining Classses\Rectangle Intersection\obj\Debug\Rectangle Intersection.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Defining Classses\Rectangle Intersection\obj\Debug\Rectangle Intersection.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Rectangle Intersection\obj\Debug\Rectangle Intersection.pdb

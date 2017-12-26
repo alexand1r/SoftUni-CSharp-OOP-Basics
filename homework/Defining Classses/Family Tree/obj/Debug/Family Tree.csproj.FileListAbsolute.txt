@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Family Tree\bin\Debug\Family Tree.exe.config
+C:\softuni\C# OOP Basics\homework\Defining Classses\Family Tree\bin\Debug\Family Tree.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Family Tree\bin\Debug\Family Tree.pdb
+C:\softuni\C# OOP Basics\homework\Defining Classses\Family Tree\obj\Debug\Family Tree.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Basics\homework\Defining Classses\Family Tree\obj\Debug\Family Tree.exe
+C:\softuni\C# OOP Basics\homework\Defining Classses\Family Tree\obj\Debug\Family Tree.pdb

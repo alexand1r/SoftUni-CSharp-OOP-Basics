@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Basics\homework\Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\softuni\C# OOP Basics\homework\Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\softuni\C# OOP Basics\homework\Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\softuni\C# OOP Basics\homework\Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\softuni\C# OOP Basics\homework\Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

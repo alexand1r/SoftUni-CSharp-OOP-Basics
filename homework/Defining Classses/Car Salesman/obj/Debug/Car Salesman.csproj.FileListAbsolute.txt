@@ -1,0 +1,1 @@
+C:\softuni\C# OOP Basics\homework\Defining Classses\Car Salesman\bin\Debug\Car Salesman.exe.config
